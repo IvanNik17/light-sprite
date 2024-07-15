@@ -17,6 +17,9 @@ This repository contains the code for the paper "Light the Sprite: Pixel Art Dyn
 - Pillow
 - Numpy
 
+# Dataset
+The training and testing datasets are in Generate Training Data -> inputs as a zip. Base pixel art sprites are taken from [https://itch.io/queue/c/1377098/freebies](https://itch.io/queue/c/1377098/freebies) and the depth maps were generated using [Kenny Shape](https://kenney.nl/tools/kenney-shape). 
+
 # Running
 
 - To generate the necessary training and testing data with the correct structure first go to Generate Training Data -> and unzip the Dataset.zip

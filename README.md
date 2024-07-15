@@ -24,10 +24,15 @@ This repository contains the code for the paper "Light the Sprite: Pixel Art Dyn
 
 .
 └── Outputs/
+
     └── image_*/
+    
         ├── target_images/
+        
             └── illum_*.jpg
+            
         ├── angles.txt
+        
         └── image_*.jpg
 
 - To train the model run the train.py and if necessary change the input and model checkpoint directories

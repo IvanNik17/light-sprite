@@ -22,7 +22,7 @@ This repository contains the code for the paper "Light the Sprite: Pixel Art Dyn
 - To generate the necessary training and testing data with the correct structure first go to Generate Training Data -> and unzip the Dataset.zip
 - Run the gen_phong_directional.py or gen_phong_positional.py to generate the necessary training and testing data. Data will be in the following file structure:
 
-.
+
 └── Outputs/
 
     └── image_*/
